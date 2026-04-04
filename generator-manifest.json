@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Restart Audio after restart / standby",
+  "description_recipe": "Restart Audio after restart / standby",
+  "history_source_dir": "audiorestart",
+  "internal_package_name": "enigma2-plugin-extensions-audiorestart",
+  "module_dir_name": "AudioRestart",
+  "output_subdir": "audiorestart",
+  "package_name": "enigma2-plugin-extensions-audiorestart",
+  "plugin_src_rel": "audiorestart",
+  "python_package": "AudioRestart",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "AudioRestart",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
