@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setupxml>
+	<setup key="audiorestart" title="Audio Restart Setup">
+		<item level="0" text="Restart audio" description="Select when to restart audio">config.plugins.AudioRestart.restartSelection</item>
+		<item level="0" text="Restart audio delay (in sec)" description="Delay before restarting audio">config.plugins.AudioRestart.restartDelay</item>
+	</setup>
+</setupxml>
