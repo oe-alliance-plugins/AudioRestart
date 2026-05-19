@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-03 21:51+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2013-05-05 13:48+0100\n"
 "Last-Translator: Rob van der Does <robvddoes@gmail.com>\n"
 "Language-Team: RU locale by Sowa\n"
@@ -18,39 +18,47 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 1.5.5\n"
 
-msgid " "
-msgstr ""
+#: ../setup.xml
+#, fuzzy
+msgid "Audio Restart Setup"
+msgstr "Настройки Рестарт аудио"
 
+#: ../plugin.py:81
 msgid "Audio restart Setup"
 msgstr "Настройки Рестарт аудио"
 
-msgid "Cancel"
-msgstr "Отменить"
+#: ../setup.xml
+msgid "Delay before restarting audio"
+msgstr ""
 
-#, python-format
-msgid "Plugin: %(plugin)s , Version: %(version)s"
-msgstr "Плагин: %(plugin)s , версия: %(version)s"
-
+#: ../plugin.py:83 ../setup.xml
 msgid "Restart audio"
 msgstr "Рестарт аудио"
 
+#: ../setup.xml
 msgid "Restart audio delay (in sec)"
 msgstr "Задержка перезагрузки аудио (сек)"
 
-msgid "Save"
-msgstr "Сохранить"
+#: ../setup.xml
+msgid "Select when to restart audio"
+msgstr ""
 
+#: ../plugin.py:81
 msgid "Setup for the AudioRestart Plugin"
 msgstr "Настройки плагина Рестарт аудио"
 
+#: ../plugin.py:12
 msgid "after restart"
 msgstr "после перезагрузки"
 
+#: ../plugin.py:12
 msgid "after restart/standby"
 msgstr "после перезагрузки/ожидания"
 
+#: ../plugin.py:12
 msgid "after standby"
 msgstr "после ожидания"
 
+#: ../plugin.py:12
 msgid "disabled"
 msgstr "отключен"
